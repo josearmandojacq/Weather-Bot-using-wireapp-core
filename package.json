@@ -1,0 +1,9 @@
+{
+  "name": "",
+  "version": "",
+  "dependencies": {
+    "@wireapp/core": "0.0.30",
+    "express": "^4.16.2",
+    "node-fetch": "^2.0.0"
+  }
+}
